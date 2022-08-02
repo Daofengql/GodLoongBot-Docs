@@ -1,0 +1,86 @@
+site_name: 神麟 帮助文档
+theme:
+  name: material
+  custom_dir: docs
+  palette:
+    primary: amber
+  language: zh
+  logo: assets/favicon128.ico
+  favicon: assets/favicon128.ico
+  tabs: true
+  features:
+    - navigation.indexes 
+    - content.tabs.link
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - announce.dismiss
+    - navigation.tracking
+
+plugins:
+  - search
+  - glightbox
+
+
+markdown_extensions:
+  - abbr
+  - admonition  # 提示块
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - footnotes  # 脚注
+  - meta  # 定义元数据，通过文章上下文控制，如disqus
+  - pymdownx.caret  # 下划线上标
+  - pymdownx.tilde  # 删除线下标
+  - pymdownx.critic  # 增加删除修改高亮注释，可修饰行内或段落
+  - pymdownx.details  # 提示块可折叠
+  - pymdownx.inlinehilite  # 行内代码高亮
+  - pymdownx.mark  # 文本高亮
+  - pymdownx.smartsymbols  # 符号转换
+  - pymdownx.superfences  # 代码嵌套在列表里
+  - codehilite:    # 代码高亮，显示行号
+      guess_lang: false
+      linenums: true
+  - toc:  # 锚点
+      permalink: true
+#  - pymdownx.arithmatex  # 数学公式
+  - pymdownx.betterem
+#  - pymdownx.emoji:  # 表情
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#  - pymdownx.magiclink  # 自动识别超链接
+  - pymdownx.tasklist:  # 复选框checklist
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 隐私协议: privacy.md
+  - 用户协议: userAgreement.md
+  - 使用帮助:
+    - help/index.md
+    - 签到: help/signin.md
+    - 麟币查询: help/signin.md
+    - 点歌: help/music.md
+
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/aVfBLeZsjDCns86
+      name: 道锋潜鳞
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:daofengqianlin@mail.hanwuss.com
+      name: 合作邮箱
+    - icon: fontawesome/brands/github
+      link: https://github.com/Daofengql
+      name: 道锋潜鳞
+
+copyright: Copyright &copy; 2016 - 2022 神麟项目团队 & 寒武天机API系统
