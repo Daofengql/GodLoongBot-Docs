@@ -1,5 +1,20 @@
 {% extends "base.html" %}
 
+{% block header %}
+
+<style>
+@font-face {
+  font-family: "HarmonyOSHans";
+  src:url("/assets/fonts/HarmonyOSHans-Medium.woff2");
+}
+:root {
+  --md-text-font: "HarmonyOSHans"; 
+}
+
+</style>
+{{ super() }}
+{% endblock %}
+
 {% block htmltitle %}
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 {% endblock %}
