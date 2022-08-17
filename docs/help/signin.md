@@ -4,4 +4,5 @@
 |指令|效果|
 |---|-------------|
 |签到|返回一个您签到打卡的数据|
-|麟币查询|查询您在神麟数据库里的鳞币余额|
+|麟币查询|查询您在神麟数据库里的鳞币余额|  
+[返回功能一览:fontawesome-solid-arrow-turn-down-left:](signin.md){ .md-button .md-button--primary }

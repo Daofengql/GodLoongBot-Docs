@@ -4,3 +4,5 @@
 |指令|效果|
 |---|-------------|
 |点歌 帮助|发送帮助页面，详细信息请见帮助|
+
+[返回功能一览:fontawesome-solid-arrow-turn-down-left:](signin.md){ .md-button .md-button--primary }
