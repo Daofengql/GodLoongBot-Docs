@@ -1,8 +1,11 @@
-name: Deploy Mkdocs 
+name: Deploy Mkdocs
+
 on:
   push:
-    branches:
-      - main
+    branches: ["master"]
+
+  workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
