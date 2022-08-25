@@ -9,6 +9,7 @@ theme:
   favicon: assets/favicon128.ico
   tabs: true
   features:
+    - content.tabs.link
     - navigation.indexes 
     - content.tabs.link
     - navigation.tabs
@@ -46,6 +47,8 @@ markdown_extensions:
       linenums: true
   - toc:  # 锚点
       permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
 #  - pymdownx.arithmatex  # 数学公式
   - pymdownx.betterem
 #  - pymdownx.emoji:  # 表情
@@ -65,8 +68,7 @@ nav:
   - 用户协议: userAgreement.md
   - 使用帮助:
     - help/index.md
-    - 签到: help/signin.md
-    - 麟币查询: help/signin.md
+    - 逐鹿星河: help/galaxy.md
     - 点歌: help/music.md
 
 
