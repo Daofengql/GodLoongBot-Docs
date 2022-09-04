@@ -2,7 +2,7 @@
 
 本功能核心命令前缀 `点歌 `
 
-指令和各个餐宿之间以空格分离，部分指令严格遵从空格分离机制
+指令和各个参数之间以空格分离，部分指令严格遵从空格分离机制
 
 举几个正确的例子：
 
@@ -25,8 +25,8 @@
 ## 数据源
 
 
-![网易](../assets/images/music/netease.jpeg){ style="height:280px" loading=lazy }
-![酷狗](../assets/images/music/kugou.webp){ style="height:280px" loading=lazy }
+![网易](../../assets/images/music/netease.jpeg){ style="height:280px" loading=lazy }
+![酷狗](../../assets/images/music/kugou.webp){ style="height:280px" loading=lazy }
 
 
 ## 功能展示
@@ -36,7 +36,7 @@
 
 指令 ： `点歌 帮助`
 
-![成功展示](../assets/images/music/help.jpg){ style="height:280px" loading=lazy }
+![成功展示](../../assets/images/music/help.jpg){ style="height:280px" loading=lazy }
 
 
 
@@ -54,8 +54,8 @@
     如图，由于网易修改了相关接口，目前无法解析非大陆地区发售的歌曲或VIP歌曲，会返回如下
     [![content.tabs.link faild_vip]][content.tabs.link faild_vip]
 
-  [content.tabs.link success_getsong]: ../assets/images/music/success_netease.jpg
-  [content.tabs.link faild_vip]: ../assets/images/music/vip_netease.jpg
+  [content.tabs.link success_getsong]: ../../assets/images/music/success_netease.jpg
+  [content.tabs.link faild_vip]: ../../assets/images/music/vip_netease.jpg
 
 
 ### 酷狗点歌 { #netease }
@@ -72,6 +72,6 @@
     如图，由于酷狗修改了相关接口，目前无法解析非大陆地区发售的歌曲或VIP歌曲，会返回如下
     [![content.tabs.link faild_vip_kugou]][content.tabs.link faild_vip_kugou]
 
-  [content.tabs.link success_getsong_kugou]: ../assets/images/music/success_kugou.jpg
-  [content.tabs.link faild_vip_kugou]: ../assets/images/music/vip_kugou.jpg
+  [content.tabs.link success_getsong_kugou]: ../../assets/images/music/success_kugou.jpg
+  [content.tabs.link faild_vip_kugou]: ../../assets/images/music/vip_kugou.jpg
 

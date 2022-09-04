@@ -79,8 +79,8 @@
     如图，如果您为第一次在某群使用签到，神麟会增加发送一条 ~~战犯~~ 星味很浓的提示。并且返回一张包含宣誓词的略有不同的签到信息
     [![content.tabs.link success_signin_firsttime]][content.tabs.link success_signin_firsttime]
 
-  [content.tabs.link success_signin]: ../assets/images/success_signin.jpg
-  [content.tabs.link success_signin_firsttime]: ../assets/images/success_signin_firsttime.jpg
+  [content.tabs.link success_signin]: ../../assets/images/success_signin.jpg
+  [content.tabs.link success_signin_firsttime]: ../../assets/images/success_signin_firsttime.jpg
 
 
 ### 我的信息 { #myinfo }
@@ -98,8 +98,8 @@
     如图，如果您之前未在某群有账号记录，则会返回一条提示签到的信息
     [![content.tabs.link faild]][content.tabs.link faild]
 
-  [content.tabs.link success]: ../assets/images/success_get_myinfo.jpg
-  [content.tabs.link faild]: ../assets/images/faild_get_myinfo.jpg
+  [content.tabs.link success]: ../../assets/images/success_get_myinfo.jpg
+  [content.tabs.link faild]: ../../assets/images/faild_get_myinfo.jpg
 
 
 ### 排行 { #rank }
@@ -141,10 +141,10 @@
 
     [![content.tabs.link ninjuli]][content.tabs.link ninjuli]
 
-  [content.tabs.link comp]: ../assets/images/comp_rank.jpg
-  [content.tabs.link alloys]: ../assets/images/alloys_rank.jpg
-  [content.tabs.link energy]: ../assets/images/energy_rank.jpg
-  [content.tabs.link ninjuli]: ../assets/images/ninjuli_rank.jpg
+  [content.tabs.link comp]: ../../assets/images/comp_rank.jpg
+  [content.tabs.link alloys]: ../../assets/images/alloys_rank.jpg
+  [content.tabs.link energy]: ../../assets/images/energy_rank.jpg
+  [content.tabs.link ninjuli]: ../../assets/images/ninjuli_rank.jpg
 
 
 ### 更新昵称 { #updatemyname }
@@ -162,8 +162,8 @@
     如图，如果您之前未在某群有账号记录，则会返回一条提示签到的信息
     [![content.tabs.link faild]][content.tabs.link faild]
 
-  [content.tabs.link success]: ../assets/images/success_changename.jpg
-  [content.tabs.link faild]: ../assets/images/faild_changename.jpg
+  [content.tabs.link success]: ../../assets/images/success_changename.jpg
+  [content.tabs.link faild]: ../../assets/images/faild_changename.jpg
 
 
 ### 泛星系贸易市场 { #convert }
@@ -180,5 +180,5 @@
     如能量币不足或账号不未注册
     [![content.tabs.link faild_alloys]][content.tabs.link faild_alloys]
 
-  [content.tabs.link success_alloys]: ../assets/images/success_get_alloys.jpg
-  [content.tabs.link faild_alloys]: ../assets/images/faild_get_alloys.jpg
+  [content.tabs.link success_alloys]: ../../assets/images/success_get_alloys.jpg
+  [content.tabs.link faild_alloys]: ../../assets/images/faild_get_alloys.jpg

@@ -68,8 +68,11 @@ nav:
   - 用户协议: userAgreement.md
   - 使用帮助:
     - help/index.md
-    - 逐鹿星河: help/galaxy.md
-    - 点歌: help/music.md
+    - 娱乐功能:
+      - 逐鹿星河: help/ent/galaxy.md
+      - 点歌: help/ent/music.md
+    - 网络功能:
+      - Ping: help/network/ping.md
 
 
 extra:
