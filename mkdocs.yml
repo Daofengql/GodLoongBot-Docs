@@ -78,14 +78,29 @@ nav:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/daofengqianlin
-      name: 道锋潜鳞
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:daofengqianlin@mail.hanwuss.com
-      name: 合作邮箱
+    - icon: fontawesome/brands/cloudflare
+      link: https://godloongbot-docs.pages.dev
+      name: Cloudflare Pages镜像 <br>（海外优选）
+
+    - icon: fontawesome/brands/github
+      link: https://daofengql.github.io/GodLoongBot-Docs/
+      name: GitHub Pages镜像<br>（中国大陆次选）
+
+    - icon: fontawesome/brands/gitlab
+      link: https://daofengql.gitee.io/godloongbot/
+      name: Gitee Pages镜像<br>（中国大陆优选）
+
     - icon: fontawesome/brands/github
       link: https://github.com/Daofengql
-      name: 道锋潜鳞
+      name: 开发者Git
+
+extra_css:
+  - "assets/chat.css"
+  - "assets/extra.css"
+  - "assets/curtain.css"
+
+extra_javascript:
+  - "assets/admonition.js"
+
 
 copyright: Copyright &copy; 2016 - 2022 神麟项目团队 & 寒武天机API系统
