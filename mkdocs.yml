@@ -79,6 +79,10 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/cloudflare
+      link: https://docs.bot.loongapi.com/
+      name: Cloudflare 自选线路镜像 <br>（中国大陆次选）
+
+    - icon: fontawesome/brands/cloudflare
       link: https://godloongbot-docs.pages.dev
       name: Cloudflare Pages镜像 <br>（海外优选）
 
