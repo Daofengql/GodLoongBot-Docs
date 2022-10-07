@@ -72,7 +72,7 @@ nav:
       - 逐鹿星河: help/ent/galaxy.md
       - 点歌: help/ent/music.md
     - 网络功能:
-      - Ping: help/network/ping.md
+      - 网络工具: help/network/network.md
 
 
 extra:

@@ -31,19 +31,19 @@
 [去查看更多使用方法 :fontawesome-solid-paper-plane:](ent/music.md){ .md-button .md-button--primary }
 
 ## 网络功能
-### Ping
+### 网络工具
 
-从`神麟`所在的东京服务器向目标发送icmp或tcp握手来监测延迟
+各种实用类型工具，如：Ping DNS查询 Whois查询等
 
-ping简单使用方法：将`神麟`添加进您的群聊中，发送：`ping 域名或ip` 后，神麟将返回数据
-
-tcping简单使用方法：将`神麟`添加进您的群聊中，发送：`tcping 域名或ip 端口` 后，神麟将返回数据
+通过机器人向查询服务器查询相关数据得到
 
 !!! bug "存在的问题和预警告"
 
-    ping功能可能会暴露您网站的解析ip，并且可能遭受到群内的恶意DDoS攻击，请慎重使用
+    ping dns tcping 功能可能会暴露您网站的解析ip，并且可能遭受到群内的恶意DDoS攻击，请慎重使用
 
-[去查看更多使用方法 :fontawesome-solid-paper-plane:](network/ping.md){ .md-button .md-button--primary }
+    whois功能可能会暴露您的个人信息，请慎重使用
+
+[去查看更多使用方法 :fontawesome-solid-paper-plane:](network/network.md){ .md-button .md-button--primary }
 
 
 ## 被动功能
