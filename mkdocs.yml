@@ -88,11 +88,7 @@ extra:
 
     - icon: fontawesome/brands/github
       link: https://daofengql.github.io/GodLoongBot-Docs/
-      name: GitHub Pages镜像<br>（中国大陆次选）
-
-    - icon: fontawesome/brands/gitlab
-      link: https://daofengql.gitee.io/godloongbot/
-      name: Gitee Pages镜像<br>（中国大陆优选）
+      name: GitHub Pages镜像<br>（中国大陆优选）
 
     - icon: fontawesome/brands/github
       link: https://github.com/Daofengql
