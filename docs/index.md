@@ -40,7 +40,7 @@
 
     由于开发周期较短，服务使用周期较短，可能存在较多的程序漏洞或问题还未解
 
-    如果您在使用 `神鳞 V2.0` 的过程中，发现存在相关漏洞。可以联系 `道锋` ，QQ:`2970290021`  或邮件联系：[daofengqianlin@mail.hanwuss.com](mailto:daofengqianlin@mail.hanwuss.com)寻求帮助
+    如果您在使用 `神鳞 V2.0` 的过程中，发现存在相关漏洞。可以联系 `道锋` ，QQ:`2970290021`  或邮件联系：[daofengqianlin@silverdragon.cn](mailto:daofengqianlin@silverdragon.cn)寻求帮助
 
     提供漏洞线索时，您可以提供相关的 `触发命令`  `触发响应`   `触发群聊`或`触发私聊的QQ` 条件允许可以附带相关的`截图信息`方便我方进行相关的错误定位和修复。
 
